@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="docs/logo.png" alt="Claude Data Migrator" width="120">
-</p>
-
-<h1 align="center">Claude Data Migrator</h1>
+<h1 align="center">
+  <img src="docs/logo.png" alt="" width="42" style="vertical-align: middle;">
+  Claude Data Migrator
+</h1>
 
 <p align="center">
   <strong>Never lose your Claude conversations again.</strong><br>
@@ -75,20 +74,41 @@ Your data. Your backup. Your peace of mind. ☕
 
 ## Screenshots
 
-<p align="center">
-  <img src="docs/screenshot-conversations.png" alt="Conversation Browser" width="800"><br>
-  <em>Browse conversations with date grouping and message counts</em>
-</p>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="docs/screenshot-conversations.png" alt="Browse Conversations" width="280"><br>
+      <sub><b>Browse</b> — Conversations with date grouping</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="docs/screenshot-export-mode.png" alt="Export Mode" width="280"><br>
+      <sub><b>Select</b> — Checkboxes, date range filter</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="docs/screenshot-export-dialog.png" alt="Export Dialog" width="280"><br>
+      <sub><b>Export</b> — Content mode, format & save path</sub>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="docs/screenshot-export-mode.png" alt="Export Mode" width="800"><br>
-  <em>Select conversations with checkboxes, filter by date range</em>
-</p>
+<details>
+<summary>🖼️ Click to view full-size screenshots</summary>
 
-<p align="center">
-  <img src="docs/screenshot-export-dialog.png" alt="Export Dialog" width="800"><br>
-  <em>Choose content mode, file format, and save location</em>
-</p>
+<br>
+
+**Browse conversations with date grouping and message counts**
+
+<img src="docs/screenshot-conversations.png" alt="Conversation Browser" width="800">
+
+**Select conversations with checkboxes, filter by date range**
+
+<img src="docs/screenshot-export-mode.png" alt="Export Mode" width="800">
+
+**Choose content mode, file format, and save location**
+
+<img src="docs/screenshot-export-dialog.png" alt="Export Dialog" width="800">
+
+</details>
 
 ---
 
@@ -212,6 +232,31 @@ Since Claude's data export doesn't include conversation-to-project mappings, thi
 3. Select one or more projects to associate with
 4. Tags are saved to `_migrator_tags.json` in your data directory
 5. Click a project in the Projects tab to see all tagged conversations
+
+---
+
+## Contributing
+
+Contributions are welcome! Whether it's a bug fix, a new feature, or just a typo — feel free to open an issue or submit a PR.
+
+```bash
+# Fork & clone
+git clone https://github.com/YOUR_USERNAME/claude-data-migrator.git
+cd claude-data-migrator
+
+# Create a branch
+git checkout -b feat/your-feature
+
+# Make changes, then submit a PR
+```
+
+Some ideas for contribution:
+
+- 🌍 Add more language translations
+- 📊 Conversation analytics / statistics dashboard
+- 🔄 Auto-detect conversation-to-project mappings
+- 🎨 Light theme support
+- 📱 Responsive mobile layout
 
 ---
 

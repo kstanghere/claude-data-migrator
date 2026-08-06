@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="docs/logo.png" alt="Claude Data Migrator" width="120">
-</p>
-
-<h1 align="center">Claude Data Migrator</h1>
+<h1 align="center">
+  <img src="docs/logo.png" alt="" width="42" style="vertical-align: middle;">
+  Claude Data Migrator
+</h1>
 
 <p align="center">
   <strong>妈妈再也不用担心我的Claude被封号了。</strong><br>
@@ -75,20 +74,41 @@
 
 ## 效果展示
 
-<p align="center">
-  <img src="docs/screenshot-conversations.png" alt="对话浏览" width="800"><br>
-  <em>按日期分组浏览对话，显示消息数量</em>
-</p>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="docs/screenshot-conversations.png" alt="浏览对话" width="280"><br>
+      <sub><b>浏览</b> — 按日期分组的对话列表</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="docs/screenshot-export-mode.png" alt="导出模式" width="280"><br>
+      <sub><b>选择</b> — 勾选 + 日期范围筛选</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="docs/screenshot-export-dialog.png" alt="导出弹窗" width="280"><br>
+      <sub><b>导出</b> — 模式、格式、保存路径</sub>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="docs/screenshot-export-mode.png" alt="导出模式" width="800"><br>
-  <em>勾选对话，支持按日期范围筛选</em>
-</p>
+<details>
+<summary>🖼️ 点击查看大图</summary>
 
-<p align="center">
-  <img src="docs/screenshot-export-dialog.png" alt="导出弹窗" width="800"><br>
-  <em>选择内容模式、文件格式和保存路径</em>
-</p>
+<br>
+
+**按日期分组浏览对话，显示消息数量**
+
+<img src="docs/screenshot-conversations.png" alt="对话浏览" width="800">
+
+**勾选对话，支持按日期范围筛选**
+
+<img src="docs/screenshot-export-mode.png" alt="导出模式" width="800">
+
+**选择内容模式、文件格式和保存路径**
+
+<img src="docs/screenshot-export-dialog.png" alt="导出弹窗" width="800">
+
+</details>
 
 ---
 
@@ -215,6 +235,31 @@ claude-data-migrator/
 
 ---
 
+
+## 参与贡献
+
+欢迎任何形式的贡献！无论是 Bug 修复、新功能还是文档改进，都可以提 Issue 或 PR。
+
+```bash
+# Fork & 克隆
+git clone https://github.com/YOUR_USERNAME/claude-data-migrator.git
+cd claude-data-migrator
+
+# 创建分支
+git checkout -b feat/your-feature
+
+# 修改后提交 PR
+```
+
+一些可以贡献的方向：
+
+- 🌍 增加更多语言翻译
+- 📊 对话统计分析面板
+- 🔄 自动检测对话与项目的关联
+- 🎨 亮色主题支持
+- 📱 移动端响应式适配
+
+---
 
 ## 开源协议
 
