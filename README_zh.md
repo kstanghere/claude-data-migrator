@@ -1,7 +1,6 @@
-<h1 align="center">
-  <img src="docs/logo.png" alt="" width="42" style="vertical-align: middle;">
-  Claude Data Migrator
-</h1>
+<p align="center">
+  <img src="docs/logo.png" alt="" height="48" align="middle">&nbsp;&nbsp;<strong style="font-size:32px;">Claude Data Migrator</strong>
+</p>
 
 <p align="center">
   <strong>妈妈再也不用担心我的Claude被封号了。</strong><br>
