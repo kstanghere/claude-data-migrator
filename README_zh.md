@@ -239,7 +239,7 @@ claude-data-migrator/
 
 ```bash
 # Fork & 克隆
-git clone https://github.com/YOUR_USERNAME/claude-data-migrator.git
+git clone https://github.com/kstanghere/claude-data-migrator.git
 cd claude-data-migrator
 
 # 创建分支

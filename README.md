@@ -238,7 +238,7 @@ Contributions are welcome! Whether it's a bug fix, a new feature, or just a typo
 
 ```bash
 # Fork & clone
-git clone https://github.com/YOUR_USERNAME/claude-data-migrator.git
+git clone https://github.com/kstanghere/claude-data-migrator.git
 cd claude-data-migrator
 
 # Create a branch
