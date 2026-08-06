@@ -1,4 +1,4 @@
-<h1 align="center"><img src="docs/logo.png" alt="" height="40" align="absmiddle">&nbsp;Claude Data Migrator</h1>
+<h1 align="center"><img src="docs/logo.png" alt="" height="36" align="absmiddle">&nbsp;Claude Data Migrator</h1>
 
 <p align="center">
   <strong>妈妈再也不用担心我的Claude被封号了。</strong><br>

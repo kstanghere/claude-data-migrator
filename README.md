@@ -1,4 +1,4 @@
-<h1 align="center"><img src="docs/logo.png" alt="" height="44" align="absmiddle">&nbsp;Claude Data Migrator</h1>
+<h1 align="center"><img src="docs/logo.png" alt="" height="36" align="absmiddle">&nbsp;Claude Data Migrator</h1>
 
 <p align="center">
   <strong>Never lose your Claude conversations again.</strong><br>
