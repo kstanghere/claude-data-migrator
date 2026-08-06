@@ -24,8 +24,6 @@
   <img src="https://img.shields.io/badge/UI-dark%20theme-1b1b18?style=flat-square&logo=css3&logoColor=white" alt="Dark Theme">
   <img src="https://img.shields.io/badge/i18n-EN%20%7C%20%E4%B8%AD%E6%96%87-blue?style=flat-square&logo=googletranslate&logoColor=white" alt="i18n">
   <img src="https://img.shields.io/badge/data-100%25%20local-brightgreen?style=flat-square&logo=shield&logoColor=white" alt="100% Local">
-  <img src="https://img.shields.io/badge/no%20npm-vanilla%20JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Vanilla JS">
-  <img src="https://img.shields.io/badge/dependencies-1%20(flask)-success?style=flat-square" alt="Minimal Dependencies">
 </p>
 
 ---
